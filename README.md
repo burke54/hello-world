@@ -1,2 +1,2 @@
-# hello-world
-my first repository
+# hello-world C++
+This is my first C++ repository
